@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+  /* margin: 0 auto 0 auto;
+  width: 10%; */
+  margin-top: 0;
+  font-family: Lucida Console;
+  font-size: 2.5em;
+}
+.underline{
+  font-family: Lucida Console;
+  font-size: 2.5rem;
+}
+.D,.I,.T{
+  text-decoration: underline;
+}
+
+div{
+  /* height:500px; */
+  background-color: lightblue;
+  /* position: relative; */
+  padding-bottom: 1%;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #1E90FF;
+}
+
+/* .middle-container{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+} */
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:300px;
+}
+.profile{
+  padding-top: 50px;
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+.profile-images{
+  margin-top: 50px;
+  width: 25%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.java-images{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.front-end-images{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.database-images{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.eng-images{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.blender-images{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.GIMP-images{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
